@@ -8,7 +8,7 @@ Apaixonada por tecnologia com trajetória autodidata, baseada em estudos contín
 
 * 🐧 Linux
 * 🐳 Docker / Docker Compose
-* ☁️ AWS
+* ☁️ AWS / IAM / OIDC
 * 🏗️ Terraform / Infrastructure as Code
 * 🔄 Git / GitHub / GitHub Actions
 * 📊 Prometheus / Grafana
@@ -24,9 +24,6 @@ Apaixonada por tecnologia com trajetória autodidata, baseada em estudos contín
 
 ### 📚 Áreas em Desenvolvimento
 
-* GitHub Actions
-* AWS IAM / OIDC
-* AWS Systems Manager
 * Kubernetes
 
-Evolução constante em projetos práticos, automatizando tarefas e documentando o processo ao longo do caminho.
+**Evolução constante em projetos práticos, automatizando tarefas e documentando o processo ao longo do caminho.**
